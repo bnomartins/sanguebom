@@ -1,6 +1,6 @@
 # 🦸‍♂️ Sangue Bom – Torne-se um Herói da Vida Real
 
-**Sangue Bom** é mais que um aplicativo — é um chamado para heróis de verdade. Ele ajuda você a descobrir se está apto a doar sangue, através de perguntas rápidas ou um questionário completo. Ao final, você recebe seu **Certificado de Apto para Salvar Vidas**, como símbolo da sua prontidão para ser um herói.
+**Sangue Bom** é mais que um aplicativo — é um chamado para heróis de verdade. Ele ajuda você a descobrir se está apto a doar sangue, através de perguntas rápidas ou tirar dúvidas sobre doação. Ao final, você recebe seu **Certificado de Apto para Salvar Vidas**, como símbolo da sua prontidão para ser um herói.
 
 > 🧬 Desenvolvido com **Python** e inteligência artificial **Gemini**, para guiar cada possível doador como um verdadeiro defensor da vida.
 
@@ -14,8 +14,7 @@ A cada 2 segundos, alguém no mundo precisa de uma transfusão. Doar sangue é u
 
 ## 🛡️ Funcionalidades Heroicas
 
-- 🧭 **Triagem rápida**: responda algumas perguntas e veja se você está pronto para doar.
-- 🧠 **Questionário completo**: uma avaliação detalhada para maior segurança.
+- 🧭 **Triagem inicial rápida**: responda algumas perguntas e veja se você está pronto para doar.
 - 📜 **Certificado de Apto**: seu selo digital de prontidão para salvar vidas.
 - 🤖 **IA Gemini**: análise inteligente, empática e confiável das suas respostas.
 - 🔒 **Privacidade garantida**: seus dados, seu controle.
@@ -24,11 +23,7 @@ A cada 2 segundos, alguém no mundo precisa de uma transfusão. Doar sangue é u
 
 ## 🎥 Veja o Sangue Bom em ação
 
-
-[![Assista ao vídeo no YouTube](https://img.youtube.com/vi/SkXhwnP_DUw/0.jpg)](https://youtu.be/SkXhwnP_DUw)
-
-
-▶️ **[Clique aqui para assistir no YouTube](https://youtu.be/Z4gNiS05VnI)**
+▶️ **[Clique aqui para assistir no YouTube](https://youtu.be/SkXhwnP_DUw)**
 
 ---
 
