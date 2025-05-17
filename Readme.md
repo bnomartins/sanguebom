@@ -32,7 +32,6 @@ A cada 2 segundos, alguém no mundo precisa de uma transfusão. Doar sangue é u
 - 🐍 **Python** – a base do app
 - 🧠 **Gemini** – IA que entende e apoia sua decisão
 - 📄 **ReportLab / FPDF** – para gerar seu certificado de herói
-- 🌐 **Flask** ou **Streamlit** – para uma interface simples e
 
 ## Observação
 - Usar ambiente virtual de preferência
