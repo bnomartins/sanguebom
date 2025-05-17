@@ -8,6 +8,10 @@ from google.genai import types
 import threading
 import os
 
+# Configuração da API
+# Certifique-se de definir a variável de ambiente 
+# com sua chave de API do Google GenAI
+# (crie um arquivo chamado .env com uma constante chamada GENAI_API_KEY = "sua_chave_aqui")
 GENAI_API_KEY = os.getenv("GENAI_API_KEY")
 
 class ChatGenAI(BoxLayout):

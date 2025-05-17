@@ -24,7 +24,9 @@ A cada 2 segundos, alguém no mundo precisa de uma transfusão. Doar sangue é u
 
 ## 🎥 Veja o Sangue Bom em ação
 
-[![Assista no YouTube](https://img.youtube.com/vi/Z4gNiS05VnI/0.jpg)](https://youtu.be/Z4gNiS05VnI)
+
+[![Assista ao vídeo no YouTube](https://img.youtube.com/vi/SkXhwnP_DUw/0.jpg)](https://youtu.be/SkXhwnP_DUw)
+
 
 ▶️ **[Clique aqui para assistir no YouTube](https://youtu.be/Z4gNiS05VnI)**
 
@@ -36,3 +38,8 @@ A cada 2 segundos, alguém no mundo precisa de uma transfusão. Doar sangue é u
 - 🧠 **Gemini** – IA que entende e apoia sua decisão
 - 📄 **ReportLab / FPDF** – para gerar seu certificado de herói
 - 🌐 **Flask** ou **Streamlit** – para uma interface simples e
+
+## Observação
+- Usar ambiente virtual de preferência
+- Instalação das bibliotecas em requirement.txt
+- Crie um arquivo chamado .env com uma constante chamada GENAI_API_KEY = "sua_chave_aqui"
