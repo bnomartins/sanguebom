@@ -23,9 +23,7 @@ A cada 2 segundos, alguém no mundo precisa de uma transfusão. Doar sangue é u
 
 ## 🎥 Veja o Sangue Bom em ação
 
-[![Assista no YouTube](https://img.youtube.com/vi/Z4gNiS05VnI/0.jpg)](https://youtu.be/Z4gNiS05VnI)
-
-▶️ **[Clique aqui para assistir no YouTube](https://youtu.be/Z4gNiS05VnI)**
+▶️ **[Clique aqui para assistir no YouTube](https://youtu.be/SkXhwnP_DUw)**
 
 ---
 
